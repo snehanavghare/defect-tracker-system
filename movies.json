@@ -1,0 +1,100 @@
+// {
+// 	"Skills": [{
+// 			"Area": "Programming Language",
+// 			"SkillSet": [{
+// 					"Name": "Java",
+// 					"Hot": true
+// 				},
+// 				{
+// 					"Name": "C#",
+// 					"Hot": false 
+// 				},
+// 				{
+// 					"Name": "Python",
+// 					"Hot": false
+// 				}
+// 			]
+// 		}
+
+// 	]
+// }
+
+[{
+  "id": "bangalore",
+  "movies": [
+    {
+      "name": "Black Panther",
+      "language": "English",
+      "type": "3D",
+      "rating": "3.0",
+      "color": "red",
+      "location": "Bangalore"
+    },{
+      "name": "Street Dancer",
+      "language": "Hindi",
+      "type": "2D",
+      "rating": "4.0",
+      "color": "green",
+      "location": "Bangalore"
+    },{
+      "name": "Drive",
+      "language": "Hindi",
+      "type": "2D",
+      "rating": "5.0",
+      "color": "yellow",
+      "location": "Bangalore"
+    }
+  ]
+},{
+  "id": "chandigarh",
+  "movies": [
+    {
+      "name": "Black Panther",
+      "language": "English",
+      "type": "3D",
+      "rating": "3.0",
+      "color": "red",
+      "location": "Chandigarh"
+    },{
+      "name": "Street Dancer",
+      "language": "Hindi",
+      "type": "2D",
+      "rating": "4.0",
+      "color": "green",
+      "location": "Chandigarh"
+    },{
+      "name": "Drive",
+      "language": "Hindi",
+      "type": "2D",
+      "rating": "5.0",
+      "color": "yellow",
+      "location": "Chandigarh"
+    }
+  ]
+},{
+  "id": "chennai",
+  "movies": [
+    {
+      "name": "Black Panther",
+      "language": "English",
+      "type": "3D",
+      "rating": "3.0",
+      "color": "red",
+      "location": "Chennai"
+    },{
+      "name": "Street Dancer",
+      "language": "Hindi",
+      "type": "2D",
+      "rating": "4.0",
+      "color": "green",
+      "location": "Chennai"
+    },{
+      "name": "Drive",
+      "language": "Hindi",
+      "type": "2D",
+      "rating": "5.0",
+      "color": "yellow",
+      "location": "Chennai"
+    }
+  ]
+}]
